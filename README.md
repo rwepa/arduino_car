@@ -1,6 +1,6 @@
 ## 本範例說門 Arduino + 光敏電阻的應用
 
-https://github.com/rwepa/arduino_car/blob/main/imgs/arduino_car.png
+![image](https://github.com/rwepa/arduino_car/blob/main/imgs/arduino_car.png)
 
 包括以下內容:
 
