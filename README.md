@@ -1,5 +1,7 @@
 ## 本範例說門 Arduino + 光敏電阻的應用
 
+https://github.com/rwepa/arduino_car/blob/main/imgs/arduino_car.png
+
 包括以下內容:
 
 1. Arduino + 光敏電阻 安裝與系統說明
