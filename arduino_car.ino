@@ -1,4 +1,4 @@
-// Arduino Car示範 ... Car測試程式碼
+// Arduino Car
 
 /*
 file  : arduino_car.ino
