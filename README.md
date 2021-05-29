@@ -1,4 +1,4 @@
-## 本範例說門 Arduino + 光敏電阻的應用
+## 本專案說門 Arduino + 光敏電阻的應用
 
 ![image](https://github.com/rwepa/arduino_car/blob/main/imgs/arduino_car.png)
 
