@@ -20,6 +20,9 @@
 
 https://youtu.be/SXyq6urlTQo
 
-5. Arduino 小魟魚IOT自走車(ASB Ⅲ), 飆機器人-PlayRobot
+5. 操作 Arduino car + 光敏電阻操作說明 PDF
 
-https://shop.playrobot.com/
+https://github.com/rwepa/arduino_car/blob/main/arduino_car_2017.pdf
+
+
+註: Arduino 小魟魚IOT自走車(ASB Ⅲ), 飆機器人-PlayRobot [https://shop.playrobot.com/]
