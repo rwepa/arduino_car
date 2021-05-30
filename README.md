@@ -24,5 +24,8 @@ https://youtu.be/SXyq6urlTQo
 
 https://github.com/rwepa/arduino_car/blob/main/arduino_car_2017.pdf
 
+6. RWEPA參考網頁
+
+http://rwepa.blogspot.com/2021/05/arduino-car.html
 
 註: Arduino 小魟魚IOT自走車(ASB Ⅲ), 飆機器人-PlayRobot [https://shop.playrobot.com/]
